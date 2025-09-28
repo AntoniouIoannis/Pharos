@@ -56,5 +56,5 @@
 ## 🚀 Getting Started
 1. Κάνε clone το repo:
    ```bash
-   git clone https://github.com/AntoniouIoannis/pharos.git
+   git clone https://github.com/AntoniouIoannis/Pharos.git
 
